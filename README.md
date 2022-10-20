@@ -1,8 +1,10 @@
 # Scraping Top Productivity Apps from [Google Play Store](https://play.google.com/store/apps)
 
 ## Introduction
-The project is aimed to boost productivity of the audience by installing highly rated apps to track daily tasks.
-In this activity, I performed web scraping utilizing python's beautiful soup and requests library to listed the top rated productivity applications available for download. This is a beginner friendly guide to help tech enthusiasts learn web scraping. 
+The project is aimed to boost productivity of the audience by listing highly productive apps on Google Play store.
+In this activity, I performed web scraping utilizing python's beautiful soup and requests library to list the top rated productivity applications from the play store with the most downloads.
+This is a beginner friendly guide to help tech enthusiasts learn web scraping.
+
 
 ## Snapshots
 
